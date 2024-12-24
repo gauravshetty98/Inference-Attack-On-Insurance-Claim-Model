@@ -40,4 +40,4 @@ Contributing
 Contributors are welcome to enhance the functionalities of this project. If you are interested in contributing, please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change. Ensure to update tests as appropriate.
 
 Contact
-For any inquiries, please reach out via email at nihil.kottal@rutgers.edu
+For any inquiries, please reach out via email at gaurav.shetty@rutgers.edu
